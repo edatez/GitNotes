@@ -1,0 +1,7 @@
+https://github.com/edatez/GitNotes.git
+cd 
+cd .ssh
+ls
+cat id_rsa.pub
+ ls -al ~/.ssh
+ 
