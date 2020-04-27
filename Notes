@@ -3,5 +3,13 @@ cd
 cd .ssh
 ls
 cat id_rsa.pub
- ls -al ~/.ssh
- 
+ls -al ~/.ssh
+git clone 
+touch script.js index.html style.css README.md
+code .
+mkdir 
+cd ..
+git add -A
+git commit -m "updated index.html"
+git push
+git status
